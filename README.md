@@ -11,7 +11,10 @@ Este proyecto es una continuación del desarrollo de la red social "Like Me", do
 
 1. **Clona el repositorio:**
 
-   git clone https://github.com/tu-usuario/Desafio-Like-Me-Parte-II.git
+   git clone https://github.com/C0smar/Desafio4_node.git
+   
+luego :
+
    cd Desafio-Like-Me-Parte-II
    
 Instala las dependencias:
