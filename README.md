@@ -40,10 +40,15 @@ Configura las variables de conexión a la base de datos:
 Abre el archivo server.js y modifica las siguientes líneas con tus credenciales de PostgreSQL:
 
 const pool = new Pool({
+
   user: "postgres", 
+  
   host: "localhost",
+  
   database: "likeme",
+  
   password: "tu-contraseña", 
+  
   port: 5432,
 });
 
